@@ -1,5 +1,5 @@
 ## Siarhei Bukhavets
-----
+
 ### _QA Engineer_
 
 ### Skills
